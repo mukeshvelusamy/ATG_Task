@@ -39,7 +39,7 @@ export default function Allpost() {
         <div className='col-md-8 col-lg-8 col-12'>
           {activeLink=="allpost" &&(
             <>
-            <div class="card border-1 rounded-0 col-md-10 col-lg-10 col-12 mb-2" >
+            <div class="card border-0 rounded-0 col-md-10 col-lg-10 col-12 mb-2" >
                 <img class="card-img-top" style={{height:"150px"}} src={allpostimg1} alt="Card image cap"/>
                 <div class="card-body">
                 <div class="d-flex justify-content-between card-title"><div className='d-flex'><img src={handwithpen} style={{width:"20px"}} alt='handwithpen'/><p className='mt-2'>Article</p></div><p>...</p></div>
@@ -51,7 +51,7 @@ export default function Allpost() {
                 </p>
                </div>   
             </div>
-            <div class="card border-1 rounded-0 col-md-10 col-lg-10 col-12 mb-2" >
+            <div class="card border-0 rounded-0 col-md-10 col-lg-10 col-12 mb-2" >
                 <img class="card-img-top" style={{height:"150px"}} src={allpostimg1} alt="Card image cap"/>
                 <div class="card-body">
                 <div class="d-flex justify-content-between card-title"><div className='d-flex'><img src={handwithpen} style={{width:"20px"}} alt='handwithpen'/><p className='mt-2'>Article</p></div><p>...</p></div>
@@ -63,7 +63,7 @@ export default function Allpost() {
                 </p>
                </div>   
             </div>
-            <div class="card border-1 rounded-0 col-md-10 col-lg-10 col-12 mb-2" >
+            <div class="card border-0 rounded-0 col-md-10 col-lg-10 col-12 mb-2" >
                 <img class="card-img-top" style={{height:"150px"}} src={allpostimg2} alt="Card image cap"/>
                 <div class="card-body">
                 <div class="d-flex justify-content-between card-title"><div className='d-flex'><img src={handwithpen} style={{width:"20px"}} alt='handwithpen'/><p className='mt-2'>Article</p></div><p>...</p></div>
@@ -75,7 +75,7 @@ export default function Allpost() {
                 </p>
                </div>   
             </div>
-            <div class="card border-1 rounded-0 col-md-10 col-lg-10 col-12 mb-2" >
+            <div class="card border-0 rounded-0 col-md-10 col-lg-10 col-12 mb-2" >
                 <img class="card-img-top" style={{height:"150px"}} src={allpostimg3} alt="Card image cap"/>
                 <div class="card-body">
                 <div class="d-flex justify-content-between card-title"><div className='d-flex'><img src={handwithpen} style={{width:"20px"}} alt='handwithpen'/><p className='mt-2'>Article</p></div><p>...</p></div>

@@ -50,7 +50,7 @@ export default function Navbar() {
               <ul className="navbar-nav justify-content-end ms-auto ps-3">
                 <li className="nav-item">
                   <a className="nav-link" href="#">
-                    Create account.<span style={{ color: 'blue' }}>It's free!</span><i className="fa-sharp fa-solid fa-arrow-down fa-sm"></i>
+                    Create account.<span style={{ color: 'blue' }} data-toggle="modal" data-target="#exampleModalCenter">It's free!</span><i className="fa-sharp fa-solid fa-arrow-down fa-sm"></i>
                   </a>
                 </li>
               </ul>
