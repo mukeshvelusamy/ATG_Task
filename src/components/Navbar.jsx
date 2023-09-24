@@ -41,11 +41,12 @@ export default function Navbar() {
             <div className="offcanvas-body">
               <div className="input-group ms-auto text-center" style={{ width: '400px' }}>
                 <div className="input-group-append">
-                  <button className="btn btn-secondary rounded-0 border-1 border-secondary" type="button">
+                  {/* <button className=" border-1   border-secondary border rounded-start rounded-start-4" type="button">
                     <i className="fa fa-search"></i>
-                  </button>
+                  </button> */}
+                  <span className=" border-1 border px-2 border-right-0 py-1 rounded-start rounded-start-4" ><i className="fa fa-search text-secondary"></i> </span>
                 </div>
-                <input type="text" className="form-control searchinput" placeholder="Search for your favourite groups in ATG" />
+                <input type="text" className="form-control searchinput rounded-end rounded-end-4 border-left-0" placeholder="Search for your favourite groups in ATG" />
               </div>
               <ul className="navbar-nav justify-content-end ms-auto ps-3">
                 <li className="nav-item">
