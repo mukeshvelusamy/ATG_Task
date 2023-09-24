@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ATG_Task/static/css/main.073c9b0a.css",
-    "main.js": "/ATG_Task/static/js/main.adc81c01.js",
+    "main.js": "/ATG_Task/static/js/main.f0acd0e1.js",
     "static/js/787.bbe01249.chunk.js": "/ATG_Task/static/js/787.bbe01249.chunk.js",
     "static/media/login.png": "/ATG_Task/static/media/login.4e590745fb18b8c7f326.png",
     "static/media/home.jpg": "/ATG_Task/static/media/home.4f52c248a7a21bfa850d.jpg",
@@ -12,11 +12,11 @@
     "static/media/logo.svg": "/ATG_Task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ATG_Task/index.html",
     "main.073c9b0a.css.map": "/ATG_Task/static/css/main.073c9b0a.css.map",
-    "main.adc81c01.js.map": "/ATG_Task/static/js/main.adc81c01.js.map",
+    "main.f0acd0e1.js.map": "/ATG_Task/static/js/main.f0acd0e1.js.map",
     "787.bbe01249.chunk.js.map": "/ATG_Task/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.adc81c01.js"
+    "static/js/main.f0acd0e1.js"
   ]
 }
